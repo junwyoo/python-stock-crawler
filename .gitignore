@@ -1,3 +1,8 @@
+# Logs and optimize files
 *.csv
 *.log
-__pycache__
+__pycache__/
+
+# Distributioin and packaging
+build/
+dist/
